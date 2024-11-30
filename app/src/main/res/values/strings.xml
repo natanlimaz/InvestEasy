@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InvestEasy</string>
+    <string name="info">O valor recebido ao final do investimento será de:</string>
+    <string name="value">Valor rendimentos:</string>
+    <string name="contribuition_per_month">Aporte por mês:</string>
+    <string name="total_month">Qtde de meses:</string>
+    <string name="interest">Juros %:</string>
+    <string name="input_contribuiton_per_month">Inserir valor R$</string>
+    <string name="input_total_month">inserir Num Meses</string>
+    <string name="input_interest">Inserir Juros</string>
+    <string name="input_value">0.0</string>
+    <string name="btn_clear">limpar</string>
+    <string name="btn_calc">calcular</string>
+</resources>
